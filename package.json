@@ -1,6 +1,6 @@
 {
   "name": "unity-color-picker",
-  "displayName": "unity-color-picker",
+  "displayName": "Unity Color Picker",
   "description": "VSCode extension that provides a color picker for Unity Color.*, Color(...) and Color32(...) usage in code.",
   "publisher": "KadirTabak",
   "version": "1.0.0",
@@ -8,6 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/jeduf/unity-color-picker.git"
   },
+  "icon": "icon.ico",
   "engines": {
     "vscode": "^1.95.0"
   },
