@@ -1,7 +1,7 @@
 # Unity Color Picker
 
-![Marketplace Version](https://img.shields.io/vscode-marketplace/v/jeduf/unity-color-picker.svg)
-![Installs](https://img.shields.io/vscode-marketplace/d/jeduf/unity-color-picker.svg)
+![Marketplace Version](https://img.shields.io/vscode-marketplace/v/KadirTabak.unity-color-picker)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/KadirTabak.unity-color-picker)
 ![License](https://img.shields.io/github/license/jeduf/unity-color-picker.svg)
 
 **Unity Color Picker** is a Visual Studio Code extension that provides an interactive color picker for various color formats used in Unity projects. It enhances your coding workflow by offering intuitive color previews and easy editing capabilities directly within your code editor.
