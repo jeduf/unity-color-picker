@@ -44,7 +44,7 @@
 
     - Using Native Picker: Click on the color swatch to open VSCode’s native color picker. Adjust the color as desired, and the color value in your code will update in real-time.
 
-![Color Preview](https://raw.githubusercontent.com/jeduf/unity-color-picker/main/preview.png)
+![Color Preview](https://raw.githubusercontent.com/jeduf/unity-color-picker/master/preview.png)
 
 ## 🔧 Configuration
 
